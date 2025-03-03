@@ -5,5 +5,11 @@
     ],
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true,
-    "python.createEnvironment.trigger": "off"
+    "python.createEnvironment.trigger": "off",
+    "cSpell.words": [
+        "chainlit",
+        "ctransformers",
+        "gguf",
+        "zoltanctoth"
+    ]
 }
